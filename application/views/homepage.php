@@ -1,16 +1,2 @@
-<div class="alert alert-info">{remaining_tasks} tasks are left to do!</div>
-
-<table class="table">
-    <tr>
-        <th>ID</th>
-        <th>Task</th>
-        <th>Priority</th>
-    </tr>
-    {display_tasks}
-    <tr>
-        <td>{id}</td>
-        <td>{task}</td>
-        <td>{priority}</td>
-    </tr>
-    {/display_tasks}
-</table>
+<img src="assets/img/aeinstein.png" style="width: 600px;"/><br/>
+<p>Education is what remains after one has forgotten what one has learned in school.</p>
